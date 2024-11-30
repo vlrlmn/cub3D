@@ -3,6 +3,7 @@
 Cub3D is a 3D game rendering project inspired by classic raycasting games like Wolfenstein 3D. It combines mathematics, graphics, and robust error handling to deliver a comprehensive learning experience in computer graphics and game development.
 This project is implemented using the `MiniLibX (MLX) library`, providing low-level graphic functionalities to draw and manipulate elements on the screen. While the primary focus is on implementing the raycasting algorithm for realistic wall rendering, significant emphasis is placed on parsing and validating input to ensure that the application handles edge cases effectively.
 
+[!cub3d](https://github.com/vlrlmn/cub3D/blob/main/img/screen.gif)
 ## 📜 Project Description
 
 The project involves the following key components:
