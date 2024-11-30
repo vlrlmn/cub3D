@@ -38,7 +38,7 @@ By focusing on rigorous testing, this project ensures that the parser is robust 
 - Robust input validation, detecting and handling invalid configurations gracefully.
 - Edge case testing through a suite of .cub files.
 
-##🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repository:
 ```bash
