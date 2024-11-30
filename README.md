@@ -61,7 +61,7 @@ make
 ./cub3D maps/map0.cub
 ```
 
-🧪 Testing and Validation
+## 🧪 Testing and Validation
 
 The `maps/` directory is a core part of this project, `valid.cub` demonstrates a proper configuration.
 Other .cub files test scenarios such as:
